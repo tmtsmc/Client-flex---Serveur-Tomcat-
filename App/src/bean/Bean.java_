@@ -1,0 +1,18 @@
+package bean;
+
+public class Bean {
+    String str;
+
+    // Constructor.
+    public Bean() {
+
+    }
+
+    public String getStr() {
+        return str;
+    }
+
+    public void setStr(String str) {
+        this.str = str;
+    }
+}
